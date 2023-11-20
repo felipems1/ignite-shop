@@ -50,6 +50,7 @@ export const Product = styled('a', {
       fontSize: '$xl',
       fontWeight: 'bold',
       color: '$green300',
+      whiteSpace: 'noWrap',
     },
   },
 
