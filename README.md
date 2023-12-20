@@ -4,8 +4,6 @@
   <img src="./public/preview.png" alt="demonstração do projeto" >
 </div>
 
-<p align="center"><a href="#">Ver Projeto</a></p>
-
 ## 1 - Sobre
 
 Ignite Shop é uma aplicação web para compras de produtos.
